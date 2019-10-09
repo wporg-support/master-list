@@ -1,0 +1,6 @@
+# PLUGINS WITH ISSUES
+
+In all cases, make sure you’re using the _latest_ version of the plugin. Many plugins have updated and will now work with 3.4, but upgrade the plugins first before reporting an issue. For people who reported a plugin to me before, I tested them all out on a clean install of WP with only that plugin installed. If it worked, I removed it from this list. Plugin conflicts aren’t the same as plugins not working on 3.4.
+
+- [DB Cache](http://wordpress.org/extend/plugins/db-cache/), [DB Cache Reloaded](http://wordpress.org/extend/plugins/db-cache-reloaded/), and [DB Cache Reloaded Fix](http://wordpress.org/extend/plugins/db-cache-reloaded-fix/) may cause fatal errors on upgrade pointing to `dbrc_wpdb::delete`. – see http://www.techbeast.net/2012/06/13/wordpress-3-4-fatal-error-upgrading-database/
+- [bbPress Admin Bar Addition](http://wordpress.org/extend/plugins/bbpress-admin-bar-addition/): reported to cause problems when trying to create a new post. Update to the [latest version](http://wordpress.org/extend/plugins/bbpress-admin-bar-addition/).
