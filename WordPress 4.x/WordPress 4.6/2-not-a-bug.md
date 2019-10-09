@@ -1,0 +1,13 @@
+# Not a Bug
+
+The following features changed behavior.
+
+**My Dashboard Fonts Look Different**: It is true that WordPress used to have one font across all operating systems and browsers. It did this by basically downloading [Open Sans](https://www.google.com/fonts/specimen/Open+Sans) from Google Fonts on every single Dashboard page load. Default system fonts have improved dramatically over the years, and the developers have decided to cut Google out of the mix and [simply use the default system font of whichever device you’re currently using](https://make.wordpress.org/core/2016/07/07/native-fonts-in-4-6/). Along with a new font, you should be noticing a slight speed increase and less data usage from your Dashboard pages.
+
+While every attempt has been made to ensure that there are no breaking issues with this change, if you notice that the font in your Dashboard is unreadable, please open a new thread in these support forums listing your [operating system and browser (and versions of both)](http://supportdetails.com/), and a [screenshot](http://www.take-a-screenshot.org/) (which you can upload via Media -> Add New in your site’s Dashboard, click on the new file in the Media library, copy the File URL to the right, and add that File URL to your new thread’s content).
+
+**Words from my theme/plugins have changed**: Some plugins and themes still include their own translations, with WordPress 4.6 we made changes to how translations are prioritized. This means [translations submitted by the community](https://translate.wordpress.org/) now get prioritized over ones submitted by the authors themselves, and may in some cases mean that words have seen some changes. If you run into any problems with this, please leave detailed feedback under [#34213](https://core.trac.wordpress.org/ticket/34213).
+
+**The category and tags screens look strange**: The ordering of elements on these pages were changed to be more intuitive as well as to improve accessibility. Some plugins may rely on the ordering, or add their own output here, which may look out of place or not work as intended after the update. Make sure you’ve updated your themes and plugins, and if it’s still looking strange, consider contacting the author to have them updated for the latest version of WordPress.
+
+**I can’t link to malformed URLs**: As a convenience feature, the Insert Link button in the Visual editor tab now prevents adding malformed URLs (links which would never work). We do understand that people use WordPress in surprising ways, so you can still link to malformed URLs in the Text editor tab.
