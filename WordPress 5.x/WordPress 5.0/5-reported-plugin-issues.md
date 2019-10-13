@@ -1,0 +1,7 @@
+# Reported plugin compatibility issues
+
+This section contains noteworthy (high impact/large) plugins with compatibility issues, and their responses when available.
+
+- Advanced Custom Fields (ACF) version 5.7.7 is not fully compatible, [find out more about known limitations in their blog post](https://www.advancedcustomfields.com/blog/the-night-before-gutenberg/). Resolved in version 5.7.8
+- WPML are reporting compatibility issues with WordPress in their latest version at this time (2018-12-07). WPML has [released 4.1 which is compatible with 5.0](https://wpml.org/2018/11/wpml-4-1-adds-gutenberg-compatibility/). However please read [their announcement post](https://wpml.org/2018/12/wait-before-updating-to-wordpress-5-0/) which recommends delaying updates.
+- The TinyMCE Advanced plugin has been updated, and has a new “Hybrid Block Editor” mode, which defaults to enabled. This may cause confusion on the plugin update, as having this option enabled will remove the default blocks in favor of others. Notably, the “Paragraph” block may seem to be missing. The normal blocks can be restored by disabling the plugin, or turning off the “Hybrid Mode” in the plugin’s settings screen. The TinyMCE Advanced plugin no longer replaces the default blocks.
