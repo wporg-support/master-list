@@ -4,7 +4,7 @@ Noteworthy and recurring scenarios users are encountering that are not actually 
 
 **Elements in the admin area have borders now!?**
 
-WordPress 5.3 ships with improved contrasts for the admin area. This is part of the projects ever ongoing work to improve accessibility.
+WordPress 5.3 ships with improved contrasts for the admin area. This is part of the project's ever ongoing work to improve accessibility.
 
 **Some of the blocks in my editor look strange**
 
