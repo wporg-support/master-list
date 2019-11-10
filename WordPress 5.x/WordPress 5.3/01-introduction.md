@@ -1,4 +1,4 @@
-# READ THIS FIRST WordPress 5.2 Master List
+# READ THIS FIRST WordPress 5.3 Master List
 
 \[ 
 [First steps](https://wordpress.org/support/topic/read-this-first-wordpress-5-3-master-list/#post-)
