@@ -1,18 +1,20 @@
 # READ THIS FIRST WordPress 5.3 Master List
 
 \[ 
-[First steps](https://wordpress.org/support/topic/read-this-first-wordpress-5-3-master-list/#post-)
+[First steps](https://wordpress.org/support/topic/read-this-first-wordpress-5-3-master-list/#post-12124044)
  | 
-[Not a bug](https://wordpress.org/support/topic/read-this-first-wordpress-5-3-master-list/#post-)
+[Core changes](https://wordpress.org/support/topic/read-this-first-wordpress-5-3-master-list/#post-12124061)
  | 
-[Reported bugs](https://wordpress.org/support/topic/read-this-first-wordpress-5-3-master-list/#post-)
+[Not a bug](https://wordpress.org/support/topic/read-this-first-wordpress-5-3-master-list/#post-12124062)
  | 
-[Plugin issues](https://wordpress.org/support/topic/read-this-first-wordpress-5-3-master-list/#post-)
+[Reported bugs](https://wordpress.org/support/topic/read-this-first-wordpress-5-3-master-list/#post-12124063)
  | 
-[Theme issues](https://wordpress.org/support/topic/read-this-first-wordpress-5-3-master-list/#post-)
+[Plugin issues](https://wordpress.org/support/topic/read-this-first-wordpress-5-3-master-list/#post-12124064)
+ | 
+[Theme issues](https://wordpress.org/support/topic/read-this-first-wordpress-5-3-master-list/#post-12124199)
  \]
 
-Hooray! [WordPress 5.3 “\[TODO: Jazzer name\]” is here](https://wordpress.org/news/)! But OMGWTFBBQ!? Everything is now broken?
+Hooray! [WordPress 5.3 “Kirk” is here](https://wordpress.org/news/2019/11/kirk/)! But OMGWTFBBQ!? Everything is now broken?
 
 **Don’t Panic!**
 
