@@ -2,7 +2,7 @@
 
 **New default theme: Twenty Twenty**
 
-WordPress 5.3 comes with a new default theme, Twenty Twenty. This simple, yet stylish, the theme provides multiple menu configurations, a page template that uses the featured image as the large background image, color options that maintain accessible color contrast, and styles that work in the block editor and the classic editor.
+WordPress 5.3 comes with a new default theme, Twenty Twenty. This simple, yet stylish, theme provides multiple menu configurations, a page template that uses the featured image as large background image, color options that maintain accessible color contrast, and styles that work in the block editor and in the classic editor.
 
 **New Site Admin Email Verification Screen**
 

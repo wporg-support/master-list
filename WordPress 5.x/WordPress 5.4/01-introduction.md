@@ -33,10 +33,10 @@ Remember to be calm, be patient, and be respectful. Volunteers are out here to t
 If your post doesn’t show up right away, please be patient. With the higher than normal post volume, more posts get flagged as spam by our auto-spam tool. We’re working hard to keep the queue clear, but making multiple posts slows us down, as we have to go back and check if you already posted. Post once.
 
 - **Do** use proper capitalization in post titles and body. Punctuate your sentence properly and humanely, it helps us read.
-- **Do** use descriptive subject lines. “All permalinks are broken since 5.0” is much better than “Augh! Help ASAP! This version is terrible!”
-- **Do** describe the problem clearly. Explain what you’re seeing, including error messages and link to screenshots if needed. Linking to your site, if the problem is on the front-end, also helps.
-- **Do** be patient. We know it sucks to be down, but posting multiple times doesn’t get you to help any faster.
-- **Do** make your own topic unless you are using the exact same version of WordPress on the same physical server hosted by the same hosts with the same plugins, theme, and configurations as the original poster. You may find it weird, but it will be easier for us to help you specifically if you have your own topic.
+- **Do** use descriptive subject lines. “All permalinks broken since 5.0” is much better than “Augh! Help ASAP! This version is terrible!”
+- **Do** describe the problem clearly. Explain what you’re seeing, include error messages and link to screenshots if needed. Linking to your site, if the problem is on the front-end, also helps.
+- **Do** be patient. We know it sucks to be down, but posting multiple times doesn’t get you help any faster.
+- **Do** make your own topic unless you are using the exact same version of WordPress on the same physical server hosted by the same hosts with the same plugins, theme and configurations as the original poster. You may find it weird, but it will be easier for us to help you specifically if you have your own topic.
 - **Do** mark your topic as resolved when it’s fixed so we know not to come looking there anymore.
 - **Do** remember you’re not alone.
 
