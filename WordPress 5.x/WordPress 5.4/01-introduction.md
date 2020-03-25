@@ -18,7 +18,7 @@ Hooray! [WordPress 5.4 “_Jazzer_” is here]()! But OMGWTFBBQ!? Everything is 
 
 **Don’t Panic!**
 
-Before you go any further, make sure you’ve updated your plugins and themes to the latest versions, clear your browser’s cache and cookies and re-log into your WordPress dashboard.
+Before you go any further, make sure you’ve updated your plugins and themes to the latest versions, clear your browser’s cache and cookies and re-log in to your WordPress dashboard.
 
 **The New Editor can be disabled!**
 
@@ -40,7 +40,7 @@ If your post doesn’t show up right away, please be patient. With the higher th
 - **Do** mark your topic as resolved when it’s fixed so we know not to come looking there anymore.
 - **Do** remember you’re not alone.
 
-Also keep in mind that not liking the direction of WordPress’s design is a not a bug. If you don’t like a feature, please don’t make a series of posts complaining about it. Look and see if someone already did, and post there, or [consider joining the process earlier on](https://make.wordpress.org/core/) (like in Beta or even test via SVN). What you’re seeing today is the result of [thousands of hours of work and testing](https://make.wordpress.org/core/5-4/), and unless something is outright broken, it’s highly unlikely to be changed.
+Also keep in mind that not liking the direction of WordPress’s design is not a bug. If you don’t like a feature, please don’t make a series of posts complaining about it. Look and see if someone already did, and post there, or [consider joining the process earlier on](https://make.wordpress.org/core/) (like in Beta or even test via SVN). What you’re seeing today is the result of [thousands of hours of work and testing](https://make.wordpress.org/core/5-4/), and unless something is outright broken, it’s highly unlikely to be changed.
 
 Again, **before** you post:
 
