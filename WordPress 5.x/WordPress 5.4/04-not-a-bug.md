@@ -2,4 +2,5 @@
 
 Noteworthy and recurring scenarios users are encountering that are not actually bugs, but rather changed or new behaviors.
 
-_None as of yet._
+- “The editor has encountered an unexpected error”. This message often appears with this in the browser console: “TypeError: Cannot read property ‘DotTip’ of undefined”. This error is caused by either an incomplete upgrade of your site, or your site using aggressive caching plugins or systems. Basically, the old javascript code, from the previous version of WordPress, is still being sent to your browser. You need to clear any server side caches, clear any caches with CloudFlare, and purge your browser cache as well. If you are using Cloudflare, check the settings and ensure that the Cloudflare caching level is set to “Standard” or “No Query String”. The “Ignore Query String” option is not compatible and should not be used.
+- “The Buttons Block is missing the ability to align buttons!” – No, it has that ability, You just can’t find it. Here is an imgur album which should help you figure out how to align buttons: https://imgur.com/a/57Kt0l5

@@ -1,20 +1,20 @@
 # READ THIS FIRST WordPress 5.4 Master List
 
 \[ 
-[First steps]()
+[First steps](https://wordpress.org/support/topic/read-this-first-wordpress-5-4-master-list/#post-12608617)
  | 
-[Core changes]()
+[Core changes](https://wordpress.org/support/topic/read-this-first-wordpress-5-4-master-list/#post-12608630)
  | 
-[Not a bug]()
+[Not a bug](https://wordpress.org/support/topic/read-this-first-wordpress-5-4-master-list/#post-12608632)
  | 
-[Reported bugs]()
+[Reported bugs](https://wordpress.org/support/topic/read-this-first-wordpress-5-4-master-list/#post-12608712)
  | 
-[Plugin issues]()
+[Plugin issues](https://wordpress.org/support/topic/read-this-first-wordpress-5-4-master-list/#post-12608635)
  | 
-[Theme issues]()
+[Theme issues](https://wordpress.org/support/topic/read-this-first-wordpress-5-4-master-list/#post-12608636)
  \]
 
-Hooray! [WordPress 5.4 “_Jazzer_” is here]()! But OMGWTFBBQ!? Everything is now broken?
+Hooray! [WordPress 5.4 “Adderley” is here](https://wordpress.org/news/2020/03/adderley/)! But OMGWTFBBQ!? Everything is now broken?
 
 **Don’t Panic!**
 
