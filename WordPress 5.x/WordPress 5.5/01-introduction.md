@@ -1,20 +1,20 @@
 # READ THIS FIRST WordPress 5.5 Master List
 
 \[ 
-[First steps]()
+[First steps](https://wordpress.org/support/topic/read-this-first-wordpress-5-5-master-list/#post-13238243)
  | 
-[Core changes]()
+[Core changes](https://wordpress.org/support/topic/read-this-first-wordpress-5-5-master-list/#post-13238244)
  | 
-[Not a bug]()
+[Not a bug](https://wordpress.org/support/topic/read-this-first-wordpress-5-5-master-list/#post-13238245)
  | 
-[Reported bugs]()
+[Reported bugs](https://wordpress.org/support/topic/read-this-first-wordpress-5-5-master-list/#post-13238247)
  | 
-[Plugin issues]()
+[Plugin issues](https://wordpress.org/support/topic/read-this-first-wordpress-5-5-master-list/#post-13238248)
  | 
-[Theme issues]()
+[Theme issues](https://wordpress.org/support/topic/read-this-first-wordpress-5-5-master-list/#post-13238249)
  \]
 
-So you've just updated to [WordPress 5.5 “_JAZZER_” is here]()! But what's this? Something broke? Or maybe you just have some questions you want to ask? This will help guide you through both troubleshooting, and common questions after the new update.
+So you've just updated to [WordPress 5.5 “Eckstine” is here](https://wordpress.org/news/2020/08/wordpress-5-5-eckstine/)! But what's this? Something broke? Or maybe you just have some questions you want to ask? This will help guide you through both troubleshooting, and common questions after the new update.
 
 **If your site broke, don’t panic!**
 
@@ -44,4 +44,4 @@ Make sure you’ve read this entire thread and [New Features in 5.5 Article](htt
 
 Go to your own install’s about page – `example.com/wp-admin/about.php` (or click the WordPress logo in the top corner) – to see what’s new.
 
-Still having problems after going throug hthe troubleshooting steps below? Please feel free to [ask your question](https://wordpress.org/support/forum/how-to-and-troubleshooting/#new-topic-0) here in the support forums.
+Still having problems after going through the troubleshooting steps below? Please feel free to [ask your question](https://wordpress.org/support/forum/how-to-and-troubleshooting/#new-topic-0) here in the support forums.
