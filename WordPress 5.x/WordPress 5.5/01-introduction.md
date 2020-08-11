@@ -14,15 +14,11 @@
 [Theme issues]()
  \]
 
-Hooray! [WordPress 5.5 “_JAZZER_” is here]()! But OMGWTFBBQ!? Everything is now broken?
+So you've just updated to [WordPress 5.5 “_JAZZER_” is here]()! But what's this? Something broke? Or maybe you just have some questions you want to ask? This will help guide you through both troubleshooting, and common questions after the new update.
 
-**Don’t Panic!**
+**If your site broke, don’t panic!**
 
 Before you go any further, make sure you’ve updated your plugins and themes to the latest versions, clear your browser’s cache and cookies and re-log in to your WordPress dashboard.
-
-**The New Editor can be disabled!**
-
-If you’re in a pinch and need the editor rolled back ASAP, please install the classic editor – https://wordpress.org/plugins/classic-editor/ – which will restore the old editor.
 
 **Still having problems? Okay, read on!**
 
@@ -47,3 +43,5 @@ Again, **before** you post:
 Make sure you’ve read this entire thread and [New Features in 5.5 Article](https://wordpress.org/support/wordpress-version/version-5-5/), and for developers, the [WordPress 5.5 Field Guide](https://make.wordpress.org/core/2020/07/30/wordpress-5-5-field-guide/).
 
 Go to your own install’s about page – `example.com/wp-admin/about.php` (or click the WordPress logo in the top corner) – to see what’s new.
+
+Still having problems after going throug hthe troubleshooting steps below? Please feel free to [ask your question](https://wordpress.org/support/forum/how-to-and-troubleshooting/#new-topic-0) here in the support forums.
