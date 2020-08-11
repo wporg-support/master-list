@@ -44,6 +44,6 @@ Also keep in mind that not liking the direction of WordPress’s design is not a
 
 Again, **before** you post:
 
-Make sure you’ve read this entire thread and [New Features in 5.5 Article](https://wordpress.org/support/wordpress-version/version-5-5/).
+Make sure you’ve read this entire thread and [New Features in 5.5 Article](https://wordpress.org/support/wordpress-version/version-5-5/), and for developers, the [WordPress 5.5 Field Guide](https://make.wordpress.org/core/2020/07/30/wordpress-5-5-field-guide/).
 
 Go to your own install’s about page – `example.com/wp-admin/about.php` (or click the WordPress logo in the top corner) – to see what’s new.
