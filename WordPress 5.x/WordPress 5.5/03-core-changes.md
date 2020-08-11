@@ -42,4 +42,4 @@ In the time since it was created, the jQuery project has received many updates, 
  
 If your plugins or themes has been negatively impacted by this change, and no update is available at this time, there is a [jQuery Migrate Helper plugin](https://wordpress.org/plugins/enable-jquery-migrate-helper/), which will re-enable the migration tool, and provide you with information about what plugin or theme might be misbehaving. 
  
-[Read about the roadmap for udpating jQuery](https://make.wordpress.org/core/2020/06/29/updating-jquery-version-shipped-with-wordpress/).
+[Read about the roadmap for updating jQuery](https://make.wordpress.org/core/2020/06/29/updating-jquery-version-shipped-with-wordpress/).
