@@ -10,4 +10,7 @@ Before posting, please make sure you’ve tried started by performing the troubl
 - Switching to the Twenty Twenty theme to rule out any theme-specific problems. If you can’t log in to change themes, you can remove the theme folders via [SFTP/FTP](https://wordpress.org/support/article/ftp-clients/) so the only one is `twentytwenty`. That will force your site to use it.
 - Manually upgrading. When all else fails, download a fresh copy of the latest.zip file for this release (top right on this page) to your computer, and use that to copy up. You may need to delete the wp-admin and wp-includes folders on your server (NOTE: do not delete the **wp-content** directory or your **wp-config.php** file) **Read the [Manual Update directions first](https://wordpress.org/support/article/updating-wordpress/)**.
 
+If your problem persists, and is related to elements no longer working as expected, for example a slider, a datepicker, a button, you may
+be experiencing issues with jQuery, please try the [Enable jQuery Migrate Helper plugin](https://wordpress.org/plugins/enable-jquery-migrate-helper) and se if it remedies your problems.
+
 If you need to create a support topic, you can provide debug data for the support volunteers by visiting the Site Health section under `Tools` > `Site Health` > `Info`.
