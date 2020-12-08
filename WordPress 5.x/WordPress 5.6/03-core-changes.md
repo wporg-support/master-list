@@ -34,3 +34,13 @@ of the block editor.
 
 [Read about the new default theme, Twenty Twenty-One](https://make.wordpress.org/core/2020/09/23/introducing-twenty-twenty-one/)
 
+**PHP 8 **
+
+The next major version release of PHP, 8.0.0, is scheduled a few days prior to WordPress 5.6. The WordPress project has 
+a long history of being compatible with new versions of PHP as soon as possible, and this release is no different.
+
+Because PHP 8 is a major version release, changes that break backward compatibility or compatibility for various APIs are allowed.
+While all of the detectable issues in WordPress can be fixed, you will need to verify that all of your plugins and themes 
+are also compatible with PHP 8 prior to upgrading your PHP version.
+
+[Read about WordPress and PHP 8.0](https://make.wordpress.org/core/2020/11/23/wordpress-and-php-8-0/)
