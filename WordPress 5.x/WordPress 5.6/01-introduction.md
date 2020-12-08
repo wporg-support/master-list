@@ -1,20 +1,20 @@
 # READ THIS FIRST WordPress 5.6 Master List
 
 \[ 
-[First steps](#)
+[Troubleshooting](https://wordpress.org/support/topic/read-this-first-wordpress-5-6-master-list/#post-13760920)
  | 
-[Core changes](#)
+[Core changes](https://wordpress.org/support/topic/read-this-first-wordpress-5-6-master-list/#post-13760931)
  | 
-[Not a bug](#)
+[Not a bug](https://wordpress.org/support/topic/read-this-first-wordpress-5-6-master-list/#post-13760932)
  | 
-[Reported bugs](#)
+[Reported bugs](https://wordpress.org/support/topic/read-this-first-wordpress-5-6-master-list/#post-13760933)
  | 
-[Plugin issues](#)
+[Plugin issues](https://wordpress.org/support/topic/read-this-first-wordpress-5-6-master-list/#post-13760934)
  | 
-[Theme issues](#)
+[Theme issues](https://wordpress.org/support/topic/read-this-first-wordpress-5-6-master-list/#post-13760935)
  \]
 
-So you've just updated to [WordPress 5.6 “Jazzer”](https://wordpress.org/news/)! But what's this? Something broke? Or maybe you just have some questions you want to ask? This will help guide you through both troubleshooting, and common questions after the new update.
+So you've just updated to [WordPress 5.6 “Simone”](https://wordpress.org/news/2020/12/simone)! But what's this? Something broke? Or maybe you just have some questions you want to ask? This will help guide you through both troubleshooting, and common questions after the new update.
 
 **If your site broke, don’t panic!**
 
@@ -40,7 +40,7 @@ Also keep in mind that not liking the direction of WordPress’s design is not a
 
 Again, **before** you post:
 
-Make sure you’ve read this entire thread and [New Features in 5.6 Article](https://wordpress.org/support/wordpress-version/version-5-6/), and for developers, the [WordPress 5.6 Field Guide](https://make.wordpress.org/core/).
+Make sure you’ve read this entire thread and [New Features in 5.6 Article](https://wordpress.org/support/wordpress-version/version-5-6/), and for developers, the [WordPress 5.6 Field Guide](https://make.wordpress.org/core/2020/11/20/wordpress-5-6-field-guide/).
 
 Go to your own install’s about page – `example.com/wp-admin/about.php` (or click the WordPress logo in the top corner) – to see what’s new.
 

@@ -34,7 +34,7 @@ of the block editor.
 
 [Read about the new default theme, Twenty Twenty-One](https://make.wordpress.org/core/2020/09/23/introducing-twenty-twenty-one/)
 
-**PHP 8 **
+**PHP 8**
 
 The next major version release of PHP, 8.0.0, is scheduled a few days prior to WordPress 5.6. The WordPress project has 
 a long history of being compatible with new versions of PHP as soon as possible, and this release is no different.
